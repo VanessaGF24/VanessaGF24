@@ -4,6 +4,10 @@
 </h1>
 
 <div align="center">
+<img src="https://media.tenor.com/3Z7t2d9QX6AAAAAi/cat-walking.gif" width="90" />
+<br/>
+  
+<div align="center">
   <!-- Typing text animation -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Astronomy+Student+🔭;Data+Analysis+%26+Python+🐍;" alt="Typing SVG" />
 </div>
@@ -34,8 +38,11 @@
 
 ### 📊 GitHub Stats
 <!-- These cards update automatically -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VanessaGF24&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=VanessaGF24&show_icons=true&theme=tokyonight&hide_border=true" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanessaGF24&layout=compact&theme=tokyonight&hide_border=true" width="48%" /> </div>
+
+<br/>
+
+<div align="center"> 🐈‍⬛ ⋆｡°✩ 🔭 ✩°｡⋆ 🐸 </div>username=VanessaGF24&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanessaGF24&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
